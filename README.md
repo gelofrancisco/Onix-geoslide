@@ -1,0 +1,2 @@
+# Onix-geoslide
+a multi-layer mapping approach to visualizing landslide data and contributing factors such as forest mapping data, soil erosion data, and rainfall accumulation to correlate graphically in between data sets. This includes community-based crowdsourcing platform to allow reporting hazards brought about by landslide occurrence such as road obstruction, slippery road and landslide prone area which would be useful for travelers to know in advance and be wary of possible danger ahead.
